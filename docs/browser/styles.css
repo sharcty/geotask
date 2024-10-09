@@ -1,0 +1,14 @@
+/* src/styles.css */
+#map {
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+
+/* angular:styles/global:styles */
+/*# sourceMappingURL=styles.css.map */

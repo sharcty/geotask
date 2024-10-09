@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.css"],
+  "sourcesContent": ["#map{\r\n    height: 100vh;\r\n    width: 100vw;\r\n    position: fixed;\r\n    margin:0;\r\n    padding:0;\r\n    left: 0;\r\n    top: 0;\r\n    overflow: hidden;\r\n    \r\n}"],
+  "mappings": ";AAAA,CAAC;AACG,UAAQ;AACR,SAAO;AACP,YAAU;AACV,UAAO;AACP,WAAQ;AACR,QAAM;AACN,OAAK;AACL,YAAU;AAEd;",
+  "names": []
+}
